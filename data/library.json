@@ -1,0 +1,16 @@
+{
+    "books": [
+        {
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "pages": "208",
+            "read": true
+        },
+        {
+            "title": "Moby Dick",
+            "author": "Herman Melville",
+            "pages": 378,
+            "read": false
+        }
+    ]  
+}
